@@ -7,3 +7,4 @@ Configures a virtual host by asking for the virtual host name if not already set
 Checks and installs dependencies for user directories, PAM authentication, and CGI scripting.
 Uses arguments (-u, -a, -c) to configure specific features like user directories, PAM authentication, and CGI.
 This script simplifies Nginx setup and ensures all necessary components are configured correctly.
+
